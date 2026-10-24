@@ -32,7 +32,6 @@ export const metadata: Metadata = {
     "Anshika Anand",
     "Salesforce Developer",
     "Java Backend Developer",
-    "Software Engineer Portfolio",
     "AI Engineer",
     "Cybersecurity",
   ],

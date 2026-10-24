@@ -12,7 +12,7 @@ export const profile = {
   email: "anshikaanand02@gmail.com",
   phone: "7033369235",
   linkedin: "https://linkedin.com/in/itsanshii/",
-  github: "https://github.com/itsanshii",
+  github: "https://github.com/Itsanshi",
   oldSite: "https://anshikaanand.netlify.app/",
   resumeFile: "/Anshika_Anand_Resume.pdf",
   location: "Bhubaneswar, India",
